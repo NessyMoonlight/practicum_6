@@ -1,3 +1,3 @@
-lst = list(range(0, 200))
+all = list(range(0, 201))
 num = int(input("Введите порядковый номер: "))
-print(lst[num - 1])
+print(all[num - 1])
